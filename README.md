@@ -1,9 +1,13 @@
 ### MongoDB-Workshop
+
 1) Clone this repo
 `git clone https://github.com/fresh5447/MongoDB-Workshop.git`
+
 2) Create your own repo
+
 3) Point this codebase to your new repo
 `git set-url origin 'someNewUrl'`
+
 4) Update the READme as you go, and commit your code.
 
 ---
