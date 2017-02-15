@@ -9,6 +9,9 @@
 `git set-url origin 'someNewUrl'`
 
 4) Update the READme as you go, and commit your code.
+`git add -A`
+`git commit -m "first commit"`
+`git push origin master`
 
 ---
 
